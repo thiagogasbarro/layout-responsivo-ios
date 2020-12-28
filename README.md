@@ -1,4 +1,4 @@
-# 28/12/2020
+# 28/12/2020 REV 1
 * Criação de constrain layout
 * Layout customizado para mais de um dispositivo 
 
