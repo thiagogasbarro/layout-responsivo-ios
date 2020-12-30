@@ -11,3 +11,7 @@
 * Formatação de elementos com UIStackView 
 * Tipos de entrada de teclado
 
+# 30/12/2020
+* Criado responsividade do layout
+* Redefinido responsabilidades do viewController
+* Implementado tela de finalização de compra
